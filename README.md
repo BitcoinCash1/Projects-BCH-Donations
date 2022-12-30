@@ -6,3 +6,4 @@ The following projects / websites accepts _donations_ in **Bitcoin Cash** (`BCH`
 - [Bitcoin Cash Node](https://bitcoincashnode.org/en/#donate): Bitcoin Cash full node software (open-source)
 - [BCH Explorer](https://explorer.melroy.org/): Bitcoin Cash Explorer by [Melroy](https://github.com/danger89) (open-source)
 - [Bitcoin Cash Podcast](https://bitcoincashpodcast.com/): The Bitcoin Cash Podcast
+- [Fulcrum](https://github.com/cculianu/Fulcrum#donations): A fast Simplified Payment Verification (SPV) server for Bitcoin Cash, Bitcoin BTC and Litecoin
