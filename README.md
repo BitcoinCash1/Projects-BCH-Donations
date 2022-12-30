@@ -1,2 +1,5 @@
-# Projects-BCH-Donations
-Projects and websites that accept donations in BCH
+# Projects/Websites that accept Donations in BCH
+
+The following projects / websites are accepting donations in **Bitcoin Cash** (`BCH`). In no particular order.
+
+-
