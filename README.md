@@ -8,3 +8,4 @@ The following projects / websites accepts _donations_ in **Bitcoin Cash** (`BCH`
 - [Bitcoin Cash Podcast](https://bitcoincashpodcast.com/): The Bitcoin Cash Podcast
 - [Fulcrum](https://github.com/cculianu/Fulcrum#donations): A fast Simplified Payment Verification (SPV) server for Bitcoin Cash, Bitcoin BTC and Litecoin
 - [The Foundation for Economic Education (FEE)](https://fee.org/donate): A 501(c)3 educational foundation with free online courses, top-rated in-person seminars, free books for classrooms, as well as relevant and worldly daily online content.
+- [one.surgery](https://one.surgery/one-surgery-cryptocurrency/): A dedicated platform to support the progression of safe surgery worldwide, built by a team passionate about global surgery.
