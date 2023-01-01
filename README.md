@@ -16,4 +16,5 @@ The following projects / websites accepts _donations_ in **Bitcoin Cash** (`BCH`
 
 Following businesses and companies that accept Bch as payment method.
 
-- 
+- [NameCheap](https://namecheap.com/) : A platform for domain name registration and web hosting 
+- [Alfatop](https://www.alfatop.me/) : A platform to Top up your Prepaid Mobile Phone with Bitcoincash & other cryptocurrencies 
