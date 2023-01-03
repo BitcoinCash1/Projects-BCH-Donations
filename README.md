@@ -16,5 +16,13 @@ The following projects / websites accepts _donations_ in **Bitcoin Cash** (`BCH`
 
 Following businesses and companies that accept Bch as payment method.
 
-- [NameCheap](https://namecheap.com/) : A platform for domain name registration and web hosting 
+- [NameCheap](https://namecheap.com/) : A platform for domain name registration and web hosting. 
 - [Alfatop](https://www.alfatop.me/) : A platform to Top up your Prepaid Mobile Phone with Bitcoincash & other cryptocurrencies 
+- [CheapAir](https://www.cheapair.com/) : A Traveling Agency for flights, hotels,and cars.
+- [Purse.io](https://purse.io/): Shop on anything on Amazon and pay using Bitcoincash.
+- [Travala](https://www.travala.com/): Travala offers comprehensive travel products, such as hotel lodging and tours, for a large selection of destinations. Services can be paid with BitcoinCash.
+
+
+
+
+
