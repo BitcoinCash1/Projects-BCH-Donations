@@ -12,17 +12,12 @@ The following projects / websites accepts _donations_ in **Bitcoin Cash** (`BCH`
 - [The Foundation for Economic Education (FEE)](https://fee.org/donate): A 501(c)3 educational foundation with free online courses, top-rated in-person seminars, free books for classrooms, as well as relevant and worldly daily online content.
 - [one.surgery](https://one.surgery/one-surgery-cryptocurrency/): A dedicated platform to support the progression of safe surgery worldwide, built by a team passionate about global surgery.
 
-## Businesses that accept BCH as payment
+## Businesses that accept Bitcoin Cash as payment
 
-Following businesses and companies that accept Bch as payment method.
+Following businesses and companies that accept BCH as payment method.
 
 - [NameCheap](https://namecheap.com/) : A platform for domain name registration and web hosting. 
-- [Alfatop](https://www.alfatop.me/) : A platform to Top up your Prepaid Mobile Phone with BitcoinCash & other cryptocurrencies.
+- [Alfatop](https://www.alfatop.me/) : A platform to Top up your Prepaid Mobile Phone with Bitcoin Cash & other cryptocurrencies.
 - [CheapAir](https://www.cheapair.com/) : A Traveling Agency for flights, hotels,and cars.
-- [Purse.io](https://purse.io/): Shop on anything on Amazon and pay using BitcoinCash.
-- [Travala](https://www.travala.com/): Travala offers comprehensive travel products, such as hotel lodging and tours, for a large selection of destinations. Services can be paid with BitcoinCash.
-
-
-
-
-
+- [Purse.io](https://purse.io/): Shop on anything on Amazon and pay using Bitcoin Cash.
+- [Travala](https://www.travala.com/): Travala offers comprehensive travel products, such as hotel lodging and tours, for a large selection of destinations. Services can be paid with Bitcoin Cash.
