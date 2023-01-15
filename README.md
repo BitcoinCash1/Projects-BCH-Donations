@@ -21,3 +21,4 @@ Following businesses and companies that accept BCH as payment method.
 - [CheapAir](https://www.cheapair.com/) : A Traveling Agency for flights, hotels,and cars.
 - [Purse.io](https://purse.io/): Shop on anything on Amazon and pay using Bitcoin Cash.
 - [Travala](https://www.travala.com/): Travala offers comprehensive travel products, such as hotel lodging and tours, for a large selection of destinations. Services can be paid with Bitcoin Cash.
+- [SwagMe.cash](https://swagme.cash/): SwagMe.cash was created by Sayoshi Nakamario and VinRadiant with the HelpMe.cash team. You can buy BCH and cryptocurrency themed shirts and items with more products planned. They accept a variety of payments with a discount if you spend Bitcoin Cash.
